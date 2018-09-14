@@ -1,0 +1,22 @@
+{
+  "name": "viseriontest",
+  "version": "1.0.0",
+  "description": "Test playground for front end and/or electron desktop app",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-matuszak/Viseriontest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-matuszak/Viseriontest/issues"
+  },
+  "homepage": "https://github.com/daniel-matuszak/Viseriontest#readme",
+  "dependencies": {
+    "react-sortable-tree": "^2.2.0"
+  }
+}
